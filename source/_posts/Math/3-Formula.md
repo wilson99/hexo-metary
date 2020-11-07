@@ -13,11 +13,11 @@ categories: Math
 
 ### 一：拉马努金恒等式
 
-<font size=10>$3=\sqrt{1+2\sqrt{1+3\sqrt{1+4}\sqrt{...}}}$</font>
+<font size=5>$3=\sqrt{1+2\sqrt{1+3\sqrt{1+4}\sqrt{...}}}$</font>
 
 更一般的形式为：
 
-<font size=10>$n=\sqrt{1+(n-1)\sqrt{1+n\sqrt{1+(n+1)\sqrt{1+(n+2)\sqrt{...}}}}}$</font>
+<font size=5>$n=\sqrt{1+(n-1)\sqrt{1+n\sqrt{1+(n+1)\sqrt{1+(n+2)\sqrt{...}}}}}$</font>
 
 当n等于3的时候，这个式子具有上图最为优美的形式，中国道家学派说：一生二，二生三，三生万物。总感觉和这个式子似乎有什么关联。
 
