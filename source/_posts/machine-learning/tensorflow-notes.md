@@ -1,7 +1,7 @@
 ---
 title: TensorFlow 学习笔记
 top: false
-cover: false
+cover: true
 toc: true
 mathjax: true
 date: 2020-11-07 16:58:43
