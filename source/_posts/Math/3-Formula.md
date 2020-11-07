@@ -7,8 +7,8 @@ mathjax: true
 date: 2020-11-07 19:54:33
 password:
 summary:
-tags:
-categories:
+tags: Math
+categories: Math
 ---
 
 ### 一：拉马努金恒等式
