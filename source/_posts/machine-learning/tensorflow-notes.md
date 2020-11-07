@@ -14,7 +14,7 @@ tags:
 
 #### 1、Sequential按层顺序创建模型
 对于顺序结构的模型，优先使用Sequential方法构建。
-``` Python
+``` python
 tf.keras.backend.clear_session()
 
 model = models.Sequential()
