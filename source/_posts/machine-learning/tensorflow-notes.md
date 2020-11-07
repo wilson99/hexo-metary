@@ -36,7 +36,7 @@ model.summary()
 
 #### 2、函数式API创建任意结构模型
 如果模型有多输入或者多输出，或者模型需要共享权重，或者模型具有残差连接等非顺序结构，推荐使用函数式API进行创建。
-``` Python
+``` python
 tf.keras.backend.clear_session()
 
 inputs = layers.Input(shape=[MAX_LEN])
