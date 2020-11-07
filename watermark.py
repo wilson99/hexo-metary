@@ -9,7 +9,7 @@ from PIL import ImageFont
 def watermark(post_name):
     if post_name == 'all':
         post_name = '*'
-    dir_name = 'source/_posts/' + post_name + '/*'
+    dir_name = 'source\\_posts\\' + post_name + '\\*'
     for files in glob.glob(dir_name):
         im = Image.open(files)
         if len(im.getbands()) < 3:
