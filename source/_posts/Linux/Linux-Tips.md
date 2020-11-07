@@ -1,7 +1,7 @@
 ---
 title: Linux Tips
 top: false
-cover: false
+cover: true
 toc: true
 mathjax: true
 date: 2020-11-07 22:39:12
