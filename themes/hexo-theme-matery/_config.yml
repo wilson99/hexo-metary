@@ -16,9 +16,9 @@ menu:
   About:
     url: /about
     icon: fas fa-user-circle
-  Contact:
-    url: /contact
-    icon: fas fa-comments
+  # Contact:
+  #   url: /contact
+  #   icon: fas fa-comments
   Friends:
     url: /friends
     icon: fas fa-address-book
@@ -123,7 +123,7 @@ logo: /medias/logo.png
 # including the display name of the button, the font awesome icon, and the hyperlink to the button.
 # 首页 banner 中的第二个按钮的配置，包括按钮的显示名称、font awesome图标和按钮的超链接.
 indexbtn:
-  enable: true
+  enable: false
   name: Github
   icon: fab fa-github-alt
   url: https://github.com/wilson99/wilson99.github.io
@@ -573,7 +573,7 @@ icp:
   url: http://beian.miit.gov.cn/ # 备案链接
   text: 沪ICP备2020033024号-1 # 备案信息
 
-# CDN访问加速 
+# CDN访问加速
 # 第一次使用本功能，一定要先配置url，再`hexo cl && hexo g && hexo d`部署到GitHub的仓库，注意！必须是GitHub的仓库！
 # 如果必须要使用国内的coding或者gitee，可以采用双部署，同时将网站部署到两个仓库（其中一个必须是GitHub的仓库）
 # URL配置规则（例子如下）： https://cdn.jsdelivr.net/gh/你的GitHub用户名/你的仓库名
@@ -584,7 +584,7 @@ icp:
 # 注：jsdelivr可以自动帮你生成.min版的js和css，所以你在上面设置js及css路径中可以直接写.min.xxx
 jsDelivr:
   url: # https://cdn.jsdelivr.net/gh/skyls03/skyls03.github.io
-  
+
 # 网站背景图
 background:
   enable: false
