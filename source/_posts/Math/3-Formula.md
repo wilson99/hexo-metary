@@ -17,7 +17,7 @@ categories: Math
 
 更一般的形式为：
 
-<font size=4><center>$n=\sqrt{1+(n-1)\sqrt{1+n\sqrt{1+(n+1)\sqrt{1+(n+2)\sqrt{...}}}}}$</center></font>
+<font size=4><center>$n=\sqrt{1+(n-1)\sqrt{1+n\sqrt{1+(n+1)\sqrt{1+(n+2)\sqrt{\cdots}}}}}$</center></font>
 
 当n等于3的时候，这个式子具有上图最为优美的形式，中国道家学派说：一生二，二生三，三生万物。总感觉和这个式子似乎有什么关联。
 
@@ -37,7 +37,7 @@ categories: Math
 
 <left>&emsp;&emsp;&emsp;&emsp;&emsp;$=\sqrt{1+2\sqrt{1+3\sqrt{1+4\sqrt{1+5\sqrt{1+6*8}}}}}$</left>
 
-<left>&emsp;&emsp;&emsp;&emsp;&emsp;$=...$</left>
+<left>&emsp;&emsp;&emsp;&emsp;&emsp;$=\cdots$</left>
 
 <left>&emsp;&emsp;&emsp;&emsp;&emsp;$=拉马努金恒等式$</left>
 
