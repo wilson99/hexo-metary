@@ -13,11 +13,11 @@ categories: Math
 
 ### 一：拉马努金恒等式
 
->$$3=\sqrt{1+2\sqrt{1+3\sqrt{1+4}\sqrt{...}}}$$
+<font size=5><center>$3=\sqrt{1+2\sqrt{1+3\sqrt{1+4}\sqrt{...}}}$</center></font>
 
 更一般的形式为：
 
->$$n=\sqrt{1+(n-1)\sqrt{1+n\sqrt{1+(n+1)\sqrt{1+(n+2)\sqrt{...}}}}}$$
+<font size=4><center>$n=\sqrt{1+(n-1)\sqrt{1+n\sqrt{1+(n+1)\sqrt{1+(n+2)\sqrt{...}}}}}$</center></font>
 
 当n等于3的时候，这个式子具有上图最为优美的形式，中国道家学派说：一生二，二生三，三生万物。总感觉和这个式子似乎有什么关联。
 
@@ -27,18 +27,24 @@ categories: Math
 
 另附证明过程：
 
->$3=\sqrt{1+2*4}$
- $=\sqrt{1+2*\sqrt{1+3*5}}$
- $=\sqrt{1+2*\sqrt{1+3*\sqrt{1+4*6}}}$
- $=\sqrt{1+2*\sqrt{1+3*\sqrt{1+4*\sqrt{1+5*7}}}}$
- $=\sqrt{1+2*\sqrt{1+3*\sqrt{1+4*\sqrt{1+5*\sqrt{1+6*8}}}}}$
- $=...$
- $=拉马努金恒等式$
+<left>&emsp;&emsp;&emsp;&emsp;$3=\sqrt{1+2*4}$</left>
+
+<left>&emsp;&emsp;&emsp;&emsp;&emsp;$=\sqrt{1+2\sqrt{1+3*5}}$</left>
+
+<left>&emsp;&emsp;&emsp;&emsp;&emsp;$=\sqrt{1+2\sqrt{1+3\sqrt{1+4*6}}}$</left>
+
+<left>&emsp;&emsp;&emsp;&emsp;&emsp;$=\sqrt{1+2\sqrt{1+3\sqrt{1+4\sqrt{1+5*7}}}}$</left>
+
+<left>&emsp;&emsp;&emsp;&emsp;&emsp;$=\sqrt{1+2\sqrt{1+3\sqrt{1+4\sqrt{1+5\sqrt{1+6*8}}}}}$</left>
+
+<left>&emsp;&emsp;&emsp;&emsp;&emsp;$=...$</left>
+
+<left>&emsp;&emsp;&emsp;&emsp;&emsp;$=拉马努金恒等式$</left>
 
 ### 二：BBP公式
 
->$$\scr{Bailey-Borwein-Plouffe公式}$$
->$$\pi=\sum_{i=0}^\infty[\frac{1}{16^k}(\frac{4}{8k+1}-\frac{2}{8k+4}-\frac{1}{8k+5}-\frac{1}{8k+6})]$$
+<font size=5><center>$\scr{Bailey-Borwein-Plouffe公式}$</center></font>
+<font size=5><center>$\pi=\sum_{i=0}^\infty[\frac{1}{16^k}(\frac{4}{8k+1}-\frac{2}{8k+4}-\frac{1}{8k+5}-\frac{1}{8k+6})]$</center></font>
 
 对于圆周率π，大家应该都不陌生。圆周率的计算可以追溯到千年之前，更加精确地计算圆周率在古代一直就是数学界的重要任务。我国1500多年前一位伟大的数学家祖冲之利用割圆术将圆周率确定至小数点后的第七位。
 
@@ -54,7 +60,7 @@ categories: Math
 
 ### 三：欧拉公式
 
->$$e^{i\pi}+1=0$$
+<font size=7><center>$e^{i\pi}+1=0$</center></font>
 
 世界十大公式之一的欧拉公式看起来十分简单，没有几个符号，也没有很复杂的运算。
 
