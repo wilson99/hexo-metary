@@ -51,11 +51,6 @@ highlight:
   tab_replace: ''
   wrap: true
   hljs: false
-prismjs:
-  enable: false
-  preprocess: true
-  line_number: true
-  tab_replace: ''
 prism_plugin:
   mode: 'preprocess'    # realtime/preprocess
   theme: 'tomorrow'
@@ -136,4 +131,3 @@ feed:
   content_limit: 140
   content_limit_delim: ' '
   order_by: -date
-
