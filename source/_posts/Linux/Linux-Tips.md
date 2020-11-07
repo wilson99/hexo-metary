@@ -11,7 +11,7 @@ tags: Linux
 categories: Linux
 ---
 
-![](20-Linux-cmd.png)
+![](20-linux-cmd.png)
 
 #### 1 查看目录以及权限
 >在windows中，使用dir查看当前目录中文件。在Linux中使用ls(list)查看当前目录文件。
