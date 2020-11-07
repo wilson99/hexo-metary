@@ -43,8 +43,8 @@ categories: Math
 
 ### 二：BBP公式
 
-<font size=10>$\scr(Bailey-Borwein-Plouffe公式)$</font>
-<font size=10>$\pi=\sum_{i=0}^\infty[\frac{1}{16^k}(\frac{4}{8k+1}-\frac{2}{8k+4}-\frac{1}{8k+5}-\frac{1}{8k+6})]$</font>
+<font size=5>$\scr(Bailey-Borwein-Plouffe公式)$</font>
+<font size=5>$\pi=\sum_{i=0}^\infty[\frac{1}{16^k}(\frac{4}{8k+1}-\frac{2}{8k+4}-\frac{1}{8k+5}-\frac{1}{8k+6})]$</font>
 
 对于圆周率π，大家应该都不陌生。圆周率的计算可以追溯到千年之前，更加精确地计算圆周率在古代一直就是数学界的重要任务。我国1500多年前一位伟大的数学家祖冲之利用割圆术将圆周率确定至小数点后的第七位。
 
