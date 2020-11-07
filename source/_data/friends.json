@@ -1,19 +1,25 @@
 [{
     "avatar": "http://image.luokangyuan.com/1_qq_27922023.jpg",
-    "name": "MaJang",
-    "introduction": "I am not a master, just looking for the master's footsteps.",
+    "name": "码酱",
+    "introduction": "我不是大佬，只是在追寻大佬的脚步",
     "url": "http://luokangyuan.com/",
-    "title": "Read More"
+    "title": "前去学习"
 }, {
     "avatar": "http://image.luokangyuan.com/4027734.jpeg",
-    "name": "Blinkfox",
-    "introduction": "Hello, I'm blinkfox, I like programming.",
-    "url": "https://blinkfox.github.io/",
-    "title": "Visit Blog"
+    "name": "闪烁之狐",
+    "introduction": "编程界大佬，技术牛，人还特别好，不懂的都可以请教大佬",
+    "url": "http://blinkfox.com/",
+    "title": "前去学习"
 }, {
     "avatar": "http://image.luokangyuan.com/avatar.jpg",
     "name": "ja_rome",
-    "introduction": "Ordinary steps can also go out of the great journey.",
+    "introduction": "平凡的脚步也可以走出伟大的行程",
     "url": "https://me.csdn.net/jlh912008548",
-    "title": "Read More"
+    "title": "前去学习"
+}, {
+    "avatar": "https://godweiyang.com/favicon.png",
+    "name": "韦阳的博客",
+    "introduction": "ECNU NLP DeepLearning AntNLP 韦阳 godweiyang WeiYang 自然语言处理 深度学习 算法码上来",
+    "url": "https://godweiyang.com/",
+    "title": "前去学习"
 }]

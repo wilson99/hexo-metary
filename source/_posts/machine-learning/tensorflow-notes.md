@@ -1,11 +1,14 @@
 ---
-title: TensorFlow学习笔记
-date: 2020/11/7
-categories:
-- Machine Learning
-tags:
-- Machine Learning
-- TensorFlow
+title: TensorFlow 学习笔记
+top: false
+cover: false
+toc: true
+mathjax: true
+date: 2020-11-07 16:58:43
+password:
+summary:
+tags: TensorFlow
+categories: Machine Learning
 ---
 
 ### 构建模型的3种方法
