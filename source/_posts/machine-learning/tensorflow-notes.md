@@ -87,4 +87,4 @@ model.summary()
 #### 3、自定义训练循环
 自定义训练循环无需编译模型，直接利用优化器根据损失函数反向传播迭代参数，拥有最高的灵活性。
 
-参考：[30天吃掉那只Tensorflow2](https://jackiexiao.github.io/eat_tensorflow2_in_30_days/)
+##### 参考：[30天吃掉那只Tensorflow2](https://jackiexiao.github.io/eat_tensorflow2_in_30_days/)
