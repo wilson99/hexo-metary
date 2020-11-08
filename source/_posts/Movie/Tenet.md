@@ -13,7 +13,7 @@ categories: Movie
 
 #### 【大聪】《信条》第1阶观影指南，挑战你的脑回路极限（无剧透）
 
-<iframe src="//player.bilibili.com/player.html?aid=201916029&bvid=BV1Sh41197SK&cid=230270801&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true" width="100%"> </iframe>
+<iframe src="//player.bilibili.com/player.html?aid=201916029&bvid=BV1Sh41197SK&cid=230270801&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true" width="100%" height="100%"> </iframe>
 
 #### 【大聪】《信条》两万字深度解析！看懂每一处细节！（第二阶）
 
