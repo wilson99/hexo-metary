@@ -1,5 +1,5 @@
 ---
-title: Tenet
+title: 【大聪】《信条》两万字深度解析！
 top: false
 cover: true
 toc: true
