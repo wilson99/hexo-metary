@@ -1,7 +1,7 @@
 ---
 title: 张量、矩阵和向量区别
 top: false
-cover: false
+cover: true
 toc: true
 mathjax: true
 date: 2020-11-09 11:30:47
