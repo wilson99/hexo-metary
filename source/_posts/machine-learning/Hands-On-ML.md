@@ -24,6 +24,7 @@ categories: Machine Learning
 * 支持向量机（SVM）
 * 决策树和随机森林
 * 神经网络
+
 #### 2. 无监督学习
 * 聚类算法
   * k-均值算法
@@ -40,6 +41,7 @@ categories: Machine Learning
 * 关联规则学习
   * Apriori
   * Eclat
+
 #### 3. 半监督学习
 #### 4. 强化学习
 ### 是否可以动态的进行增量学习
