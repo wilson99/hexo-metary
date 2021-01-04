@@ -6,14 +6,29 @@
       {
         "id": "c6adb881c16ec88c",
         "type": "leaf",
+        "dimension": 55.51282051282052,
         "active": true,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "ProjectManagement/ScrumMaster.md",
+            "file": "Linux/VIM-Plugins.md",
             "mode": "source"
           }
-        }
+        },
+        "group": "11b74af83d9a4692"
+      },
+      {
+        "id": "2f93d26e6e17c210",
+        "type": "leaf",
+        "dimension": 44.48717948717948,
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Linux/VIM-Plugins.md",
+            "mode": "preview"
+          }
+        },
+        "group": "11b74af83d9a4692"
       }
     ],
     "direction": "vertical"
@@ -53,7 +68,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 220
   },
   "right": {
     "id": "26451f97c17446f3",
@@ -69,7 +84,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ProjectManagement/ScrumMaster.md",
+                "file": "Linux/VIM-Plugins.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,7 +109,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ProjectManagement/ScrumMaster.md"
+                "file": "Linux/VIM-Plugins.md"
               }
             }
           }
@@ -106,10 +121,10 @@
     "collapsed": true
   },
   "lastOpenFiles": [
+    "Linux/VIM-Plugins.md",
     "ProjectManagement/ScrumMaster.md",
     "Linux/Linux-Screen-Tips.md",
     "ProjectManagement/Untitled.md",
-    "Linux/VIM-Plugins.md",
     "Linux/Untitled.md",
     "Linux/Linux-VIM-Tips.md",
     "Linux/Linux-Tmux-Tips.md",
