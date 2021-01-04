@@ -8,8 +8,11 @@
         "type": "leaf",
         "active": true,
         "state": {
-          "type": "empty",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "Linux/VIM-Plugins.md",
+            "mode": "source"
+          }
         }
       }
     ],
@@ -66,6 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Linux/VIM-Plugins.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,7 +93,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Linux/VIM-Plugins.md"
+              }
             }
           }
         ]
@@ -100,15 +106,15 @@
     "collapsed": true
   },
   "lastOpenFiles": [
-    "Linux/Linux-VIM-Tips.md",
+    "Linux/VIM-Plugins.md",
     "Linux/Linux-Screen-Tips.md",
     "Linux/Untitled.md",
+    "Linux/Linux-VIM-Tips.md",
     "Linux/Linux-Tmux-Tips.md",
     "Linux/Linux-Tips.md",
     "Linux/Linux-Shell-Shortcut-Key.md",
     "Architecture/Design-Pattern.md",
     "Untitled.md",
-    "Machine-Learning/Hands-On-ML.md",
-    "Math/3-Formula.md"
+    "Machine-Learning/Hands-On-ML.md"
   ]
 }
