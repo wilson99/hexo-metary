@@ -10,7 +10,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Linux/VIM-Plugins.md",
+            "file": "ProjectManagement/ScrumMaster.md",
             "mode": "source"
           }
         }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Linux/VIM-Plugins.md",
+                "file": "ProjectManagement/ScrumMaster.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,7 +94,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Linux/VIM-Plugins.md"
+                "file": "ProjectManagement/ScrumMaster.md"
               }
             }
           }
@@ -106,15 +106,15 @@
     "collapsed": true
   },
   "lastOpenFiles": [
-    "Linux/VIM-Plugins.md",
+    "ProjectManagement/ScrumMaster.md",
     "Linux/Linux-Screen-Tips.md",
+    "ProjectManagement/Untitled.md",
+    "Linux/VIM-Plugins.md",
     "Linux/Untitled.md",
     "Linux/Linux-VIM-Tips.md",
     "Linux/Linux-Tmux-Tips.md",
     "Linux/Linux-Tips.md",
     "Linux/Linux-Shell-Shortcut-Key.md",
-    "Architecture/Design-Pattern.md",
-    "Untitled.md",
-    "Machine-Learning/Hands-On-ML.md"
+    "Architecture/Design-Pattern.md"
   ]
 }
