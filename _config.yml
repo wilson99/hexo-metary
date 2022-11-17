@@ -111,6 +111,7 @@ deploy:
   type: git
   repo: https://github.com/wilson99/www.t1d.ltd
   branch: master
+  token: $HEXO_TOKEN
 
 search:
   path: search.xml
