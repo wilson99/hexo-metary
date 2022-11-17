@@ -13,3 +13,6 @@ scoop install nodejs
 npm install hexo (npm install -g hexo-cli)
 
 npx hexo <command>
+
+https://docs.github.com/en/get-started/getting-started-with-git/about-remote-repositories#cloning-with-https-urls
+
